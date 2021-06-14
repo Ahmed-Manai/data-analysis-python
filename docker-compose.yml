@@ -8,4 +8,4 @@ services:
     volumes:
       - .:/code
     ports:
-      - 5000:5010
+      - 5010:5000

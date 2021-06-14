@@ -2,6 +2,8 @@
 name = "data-analysis"
 version = "0.1.0"
 description = "data-analysis with Flask"
+authors = ["ahmed manai<manaii.ahmed9896@gmail.com>"]
+license = "MIT"
 
 [tool.poetry.dependencies]
 python = ">=3.6,<4.0"
